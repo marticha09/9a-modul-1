@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\Lubo10A\delene\bin\Debug\delene.exe.config
+C:\Users\1409-1\Desktop\Lubo10A\delene\bin\Debug\delene.exe
+C:\Users\1409-1\Desktop\Lubo10A\delene\bin\Debug\delene.pdb
+C:\Users\1409-1\Desktop\Lubo10A\delene\obj\Debug\delene.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\Lubo10A\delene\obj\Debug\delene.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\Lubo10A\delene\obj\Debug\delene.exe
+C:\Users\1409-1\Desktop\Lubo10A\delene\obj\Debug\delene.pdb

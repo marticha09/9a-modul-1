@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\ajaba shto doidoh tuka\bin\Debug\ajaba shto doidoh tuka.exe.config
+C:\Users\1409-1\Desktop\martin 9a\ajaba shto doidoh tuka\bin\Debug\ajaba shto doidoh tuka.exe
+C:\Users\1409-1\Desktop\martin 9a\ajaba shto doidoh tuka\bin\Debug\ajaba shto doidoh tuka.pdb
+C:\Users\1409-1\Desktop\martin 9a\ajaba shto doidoh tuka\obj\Debug\ajaba shto doidoh tuka.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\ajaba shto doidoh tuka\obj\Debug\ajaba shto doidoh tuka.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\ajaba shto doidoh tuka\obj\Debug\ajaba shto doidoh tuka.exe
+C:\Users\1409-1\Desktop\martin 9a\ajaba shto doidoh tuka\obj\Debug\ajaba shto doidoh tuka.pdb
