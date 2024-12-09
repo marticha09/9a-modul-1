@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\upr 6 12\bin\Debug\upr 6 12.exe.config
+C:\Users\1409-1\Desktop\martin 9a\upr 6 12\bin\Debug\upr 6 12.exe
+C:\Users\1409-1\Desktop\martin 9a\upr 6 12\bin\Debug\upr 6 12.pdb
+C:\Users\1409-1\Desktop\martin 9a\upr 6 12\obj\Debug\upr 6 12.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\upr 6 12\obj\Debug\upr 6 12.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\upr 6 12\obj\Debug\upr 6 12.exe
+C:\Users\1409-1\Desktop\martin 9a\upr 6 12\obj\Debug\upr 6 12.pdb

@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\Zad_usloviee\bin\Debug\Zad_usloviee.exe.config
+C:\Users\1409-1\Desktop\martin 9a\Zad_usloviee\bin\Debug\Zad_usloviee.exe
+C:\Users\1409-1\Desktop\martin 9a\Zad_usloviee\bin\Debug\Zad_usloviee.pdb
+C:\Users\1409-1\Desktop\martin 9a\Zad_usloviee\obj\Debug\Zad_usloviee.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\Zad_usloviee\obj\Debug\Zad_usloviee.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\Zad_usloviee\obj\Debug\Zad_usloviee.exe
+C:\Users\1409-1\Desktop\martin 9a\Zad_usloviee\obj\Debug\Zad_usloviee.pdb

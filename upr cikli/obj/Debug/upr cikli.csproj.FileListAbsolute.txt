@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\upr cikli\bin\Debug\upr cikli.exe.config
+C:\Users\1409-1\Desktop\martin 9a\upr cikli\bin\Debug\upr cikli.exe
+C:\Users\1409-1\Desktop\martin 9a\upr cikli\bin\Debug\upr cikli.pdb
+C:\Users\1409-1\Desktop\martin 9a\upr cikli\obj\Debug\upr cikli.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\upr cikli\obj\Debug\upr cikli.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\upr cikli\obj\Debug\upr cikli.exe
+C:\Users\1409-1\Desktop\martin 9a\upr cikli\obj\Debug\upr cikli.pdb
