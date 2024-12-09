@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\Lubo10A\ne karame chas\bin\Debug\ne karame chas.exe.config
+C:\Users\1409-1\Desktop\Lubo10A\ne karame chas\bin\Debug\ne karame chas.exe
+C:\Users\1409-1\Desktop\Lubo10A\ne karame chas\bin\Debug\ne karame chas.pdb
+C:\Users\1409-1\Desktop\Lubo10A\ne karame chas\obj\Debug\ne karame chas.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\Lubo10A\ne karame chas\obj\Debug\ne karame chas.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\Lubo10A\ne karame chas\obj\Debug\ne karame chas.exe
+C:\Users\1409-1\Desktop\Lubo10A\ne karame chas\obj\Debug\ne karame chas.pdb

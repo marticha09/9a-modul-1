@@ -1,0 +1,15 @@
+C:\Users\1409-1\Desktop\martin 9a\opit43\bin\Debug\opit43.exe.config
+C:\Users\1409-1\Desktop\martin 9a\opit43\bin\Debug\opit43.exe
+C:\Users\1409-1\Desktop\martin 9a\opit43\bin\Debug\opit43.pdb
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.Form1.resources
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.Properties.Resources.resources
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.View.Galeriq.resources
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.View.Registraciq.resources
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.View.Uslugi.resources
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.View.Vhod.resources
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.View.zanas.resources
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.csproj.GenerateResource.cache
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.exe
+C:\Users\1409-1\Desktop\martin 9a\opit43\obj\Debug\opit43.pdb

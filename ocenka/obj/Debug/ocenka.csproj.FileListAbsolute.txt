@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\ocenka\bin\Debug\ocenka.exe.config
+C:\Users\1409-1\Desktop\martin 9a\ocenka\bin\Debug\ocenka.exe
+C:\Users\1409-1\Desktop\martin 9a\ocenka\bin\Debug\ocenka.pdb
+C:\Users\1409-1\Desktop\martin 9a\ocenka\obj\Debug\ocenka.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\ocenka\obj\Debug\ocenka.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\ocenka\obj\Debug\ocenka.exe
+C:\Users\1409-1\Desktop\martin 9a\ocenka\obj\Debug\ocenka.pdb
