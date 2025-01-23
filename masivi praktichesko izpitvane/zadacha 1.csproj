@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{06B95D63-FC9E-49FC-828C-CE7F37FA3150}</ProjectGuid>
+    <ProjectGuid>{4FEB29F0-43F0-4E43-BCE4-4BA04EF7A98B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>zadacha_3</RootNamespace>
-    <AssemblyName>zadacha 3</AssemblyName>
+    <RootNamespace>masivi_praktichesko_izpitvane</RootNamespace>
+    <AssemblyName>masivi praktichesko izpitvane</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

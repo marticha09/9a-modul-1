@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 4\bin\Debug\zadacha 4.exe.config
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 4\bin\Debug\zadacha 4.exe
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 4\bin\Debug\zadacha 4.pdb
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 4\obj\Debug\zadacha 4.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 4\obj\Debug\zadacha 4.exe
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 4\obj\Debug\zadacha 4.pdb

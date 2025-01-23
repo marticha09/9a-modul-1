@@ -1,24 +1,26 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace zadacha_3
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        
+        char[] alphabet = new char[26];
+        for (int i = 0; i < 26; i++)
         {
-            Console.Write("vuvedi edno dvucifreno 4islo");
-            Console.ReadLine();
-            if (0 < 10)
-                Console.Write("chetno");
-            else (10 < 0)
-            Console.Write("nechetno");
+            alphabet[i] = (char)('a' + i);
+        }
+        
+        Console.Write("vuvedi duma s malki bukvi: ");
+        string word = Console.ReadLine();
 
-
-
+       
+        foreach (char letter in word)
+        {
+            int index = Array.IndexOf(alphabet, letter);
+            Console.WriteLine($"bukvata '{letter}' ima index {index}");
         }
     }
 }
+
+

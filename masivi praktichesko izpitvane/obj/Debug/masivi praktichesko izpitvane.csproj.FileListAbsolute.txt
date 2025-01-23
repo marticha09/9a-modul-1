@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\masivi praktichesko izpitvane\bin\Debug\masivi praktichesko izpitvane.exe.config
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\masivi praktichesko izpitvane\bin\Debug\masivi praktichesko izpitvane.exe
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\masivi praktichesko izpitvane\bin\Debug\masivi praktichesko izpitvane.pdb
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\masivi praktichesko izpitvane\obj\Debug\masivi praktichesko izpitvane.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\masivi praktichesko izpitvane\obj\Debug\masivi praktichesko izpitvane.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\masivi praktichesko izpitvane\obj\Debug\masivi praktichesko izpitvane.exe
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\masivi praktichesko izpitvane\obj\Debug\masivi praktichesko izpitvane.pdb

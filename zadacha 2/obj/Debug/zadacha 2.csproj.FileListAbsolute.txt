@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 2\bin\Debug\zadacha 2.exe.config
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 2\bin\Debug\zadacha 2.exe
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 2\bin\Debug\zadacha 2.pdb
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 2\obj\Debug\zadacha 2.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 2\obj\Debug\zadacha 2.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 2\obj\Debug\zadacha 2.exe
+C:\Users\Martin\Documents\visual studio projects\masivi praktichesko izpitvane\zadacha 2\obj\Debug\zadacha 2.pdb

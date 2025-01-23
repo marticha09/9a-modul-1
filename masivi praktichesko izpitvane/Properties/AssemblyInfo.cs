@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("zadacha 3")]
+[assembly: AssemblyTitle("masivi praktichesko izpitvane")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("zadacha 3")]
+[assembly: AssemblyProduct("masivi praktichesko izpitvane")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("06b95d63-fc9e-49fc-828c-ce7f37fa3150")]
+[assembly: Guid("4feb29f0-43f0-4e43-bce4-4ba04ef7a98b")]
 
 // Version information for an assembly consists of the following four values:
 //
