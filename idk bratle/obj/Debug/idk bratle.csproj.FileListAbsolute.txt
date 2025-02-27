@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\idk bratle\bin\Debug\idk bratle.exe.config
+C:\Users\1409-1\Desktop\martin 9a\idk bratle\bin\Debug\idk bratle.exe
+C:\Users\1409-1\Desktop\martin 9a\idk bratle\bin\Debug\idk bratle.pdb
+C:\Users\1409-1\Desktop\martin 9a\idk bratle\obj\Debug\idk bratle.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\idk bratle\obj\Debug\idk bratle.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\idk bratle\obj\Debug\idk bratle.exe
+C:\Users\1409-1\Desktop\martin 9a\idk bratle\obj\Debug\idk bratle.pdb
