@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\bankov metod\obj\Debug\Bank Account.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\bankov metod\obj\Debug\Bank Account.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\bankov metod\obj\Debug\bankov metod.exe
+C:\Users\1409-1\Desktop\martin 9a\bankov metod\obj\Debug\bankov metod.pdb
+C:\Users\1409-1\Desktop\martin 9a\bankov metod\bin\Debug\bankov metod.exe.config
+C:\Users\1409-1\Desktop\martin 9a\bankov metod\bin\Debug\bankov metod.exe
+C:\Users\1409-1\Desktop\martin 9a\bankov metod\bin\Debug\bankov metod.pdb
