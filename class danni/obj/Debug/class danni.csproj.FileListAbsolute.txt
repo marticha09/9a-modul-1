@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\class danni\bin\Debug\class danni.exe.config
+C:\Users\1409-1\Desktop\martin 9a\class danni\bin\Debug\class danni.exe
+C:\Users\1409-1\Desktop\martin 9a\class danni\bin\Debug\class danni.pdb
+C:\Users\1409-1\Desktop\martin 9a\class danni\obj\Debug\class danni.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\class danni\obj\Debug\class danni.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\class danni\obj\Debug\class danni.exe
+C:\Users\1409-1\Desktop\martin 9a\class danni\obj\Debug\class danni.pdb
